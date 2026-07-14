@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/aryan010201/LeetCode/tree/master/0355-design-twitter) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryan010201/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aryan010201/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/aryan010201/LeetCode/tree/master/0355-design-twitter) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryan010201/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aryan010201/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/aryan010201/LeetCode/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/aryan010201/LeetCode/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
