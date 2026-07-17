@@ -1,0 +1,27 @@
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+        int n=nums.size();
+        int low=-1;
+        int mid=0;
+        int high=n-1;
+
+        while(mid<=high){
+            if(nums[mid]==1){
+                mid++;
+            }
+            else if(nums[mid]==2){
+                swap(nums[high],nums[mid]);
+                high--;
+            }
+            else if(nums[mid]==0){
+                swap(nums[low+1],nums[mid]);
+                low++;
+                mid++;
+            }
+        }
+
+
+        
+    }
+};
